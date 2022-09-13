@@ -4,11 +4,12 @@ body{
 .sweety{
   color: black;
   background-color: rgb(245, 238, 229);
-  border: 10px dotted yellow;
+  border: 10px solid yellow;
   margin: 20px 5px 30px 30px;
   padding: 25px;
   text-align: justify;
   font-family: 'Oswald', sans-serif,'Roboto Mono', monospace;
+  border-radius: 15px;
 }
 h2{
   font-size: 48px;
@@ -31,4 +32,9 @@ h2{
   text-align: center;
   font-weight: 700;
   text-transform: capitalize;
+}
+
+.ashik{
+  width: 200px;
+  height: 200px;
 }
